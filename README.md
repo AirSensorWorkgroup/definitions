@@ -1,5 +1,5 @@
 # definitions
-<b>Definitions of key terms used</b>
+<b>Definitions of Key Terms</b>
 
 <b>Sensor</b>: The most basic piece of hardware in a system. A chemical cell or physical unit that produces an analytically useful signal by detecting or measuring the analyte.
 
